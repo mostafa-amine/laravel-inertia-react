@@ -1,3 +1,1 @@
-
-
-# Thanks to Inertia and React.js 
+# Thanks to Inertia.js 
